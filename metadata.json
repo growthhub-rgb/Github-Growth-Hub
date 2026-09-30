@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Growth Hub",
+  "description": "Increase visibility, attract developer attention, and accelerate open-source adoption for GitHub repositories with professional audits and growth playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
